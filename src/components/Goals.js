@@ -4,6 +4,7 @@ import {
   handleAddGoal,
   handleRemoveGoal
 } from '../actions/goals'
+import List from './List'
 
 class Goals extends React.Component {
 

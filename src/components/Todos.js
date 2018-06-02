@@ -5,6 +5,7 @@ import {
   handleRemoveTodo,
   handleToggle
 } from '../actions/todos'
+import List from './List'
 
 class Todos extends React.Component {
   addItem = (e) => {
